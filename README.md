@@ -1,3 +1,6 @@
+Setup Tutorial:
+https://my-sky.hns.siasky.net/
+
 # Welcome to the Skynet Workshop!
 
 Welcome!
